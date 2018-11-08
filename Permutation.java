@@ -1,7 +1,7 @@
 /*
  * Long Truong
  * 015274920
- *
+ * ENGR 350
  */
 package permutation;
 
